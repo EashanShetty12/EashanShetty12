@@ -5,8 +5,6 @@
 
 ### <div align="center">I'm Eashan , Machine Learning Engineer</div>  
   
-
-- 🔭 I’m currently working on StyleView  
   
 
 - 🌱 I’m currently learning Machine Learning and Computer Vission  
